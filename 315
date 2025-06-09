@@ -1,0 +1,10 @@
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <title>请输入密码下载文件</title>
+    <script type="text/javascript">
+    var pwd=prompt("请输入密码","")
+    if (pwd!=null && pwd!="")
+    {
+        window.location.href='https://pan.losfer.cn/down.php/8896e3518b6eac05e38c9c05e5fc122d&'+pwd
+    }
+    </script>
+    请刷新页面，或[ <a href="javascript:history.back();">返回上一页</a> ]
